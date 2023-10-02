@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Dalia Saleem
-- 💻 I am a Computer System Engineer student at PTUK
+- 💻 I am a Computer System Engineer graduate at PTUK
 - 😎 Very good in Software Programming : C++, OOP, Data Structure, Algorithms, Python, Data base.
 - 🌱 I am currently focusing on learning Frontend.
 - 😄Creatively and willingness to learn new skills.
